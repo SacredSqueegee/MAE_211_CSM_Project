@@ -1,25 +1,17 @@
 ﻿Report Name: C:\Users\Bravo_Ghost\Documents\GitHub\MAE_211_CSM_Project\report.txt
-Report Time: 10/18/2018 01:21:20
+Report Time: 10/24/2018 23:35:00
 Report Options:
     Part Names
 
 Select Set #1:
-    R-4D_Panel_Bolt.par:8
-    R-4D_Panel_Bolt.par:7
-    R-4D_Panel_Bolt.par:6
-    R-4D_Panel_Bolt.par:5
-    R-4D_Panel_Bolt.par:4
-    R-4D_Panel_Bolt.par:2
-    R-4D_Panel_Bolt.par:3
-    R-4D_Panel_Bolt.par:1
+    SM_Radial_Beam.par:1
 
 Select Set #2:
-    R-4D_Housing.par:1
-    R-4D_Base_Mounting_Plate.par:1
+    SM_Hull_Panel_1and3.par:1
 
 Interferences:
     1 of 1
-    R-4D_Panel_Bolt.par:6
-    R-4D_Base_Mounting_Plate.par:1
+    SM_Radial_Beam.par:1
+    SM_Hull_Panel_1and3.par:1
 
     1 Interferences Detected
