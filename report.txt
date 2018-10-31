@@ -1,28 +1,17 @@
 ﻿Report Name: C:\Users\Bravo_Ghost\Documents\GitHub\MAE_211_CSM_Project\report.txt
-Report Time: 10/29/2018 23:17:41
+Report Time: 10/31/2018 13:10:41
 Report Options:
     Part Names
 
 Select Set #1:
-    SM_Sump_Tank_Oxidizer.par:1
+    R-4D_Mono_Tank_Securing_Strap.par:1
 
 Select Set #2:
-    SM_Center_Hull.par:1
-    SM_Radial_Beam.par:4
-    SM_Radial_Beam.par:1
-    SM_Hull_Panel_2and4.par:1
-    SM_R-4D_Panel_1and3.par:1
-    SM_Hull_Panel_1and3.par:1
-    SM_Sump_Tank_Oxidizer_Securing_Plate_Top.par:1
-    SM_Aft_Bulkhead.par:1
+    SM_R-4D_Panel_2and4.par:1
 
 Interferences:
-    1 of 2
-    SM_Sump_Tank_Oxidizer.par:1
-    SM_Radial_Beam.par:4
+    1 of 1
+    R-4D_Mono_Tank_Securing_Strap.par:1
+    SM_R-4D_Panel_2and4.par:1
 
-    2 of 2
-    SM_Sump_Tank_Oxidizer.par:1
-    SM_Radial_Beam.par:1
-
-    2 Interferences Detected
+    1 Interferences Detected
