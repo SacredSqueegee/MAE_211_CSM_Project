@@ -1,0 +1,22 @@
+﻿Report Name: C:\Users\Bravo_Ghost\Documents\GitHub\MAE_211_CSM_Project\SM\asm\report.txt
+Report Time: 11/2/2018 04:58:10
+Report Options:
+    Part Names
+
+Select Set #1:
+    SM_Storage_Tank.par:1
+
+Select Set #2:
+    SM_Radial_Beam.par:1
+    SM_Radial_Beam.par:3
+
+Interferences:
+    1 of 2
+    SM_Storage_Tank.par:1
+    SM_Radial_Beam.par:1
+
+    2 of 2
+    SM_Storage_Tank.par:1
+    SM_Radial_Beam.par:3
+
+    2 Interferences Detected
