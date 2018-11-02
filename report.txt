@@ -1,24 +1,22 @@
-﻿Report Name: C:\Users\wiley\Documents\MAE 211 temp\Final Project\report.txt
-Report Time: 11/1/2018 9:29:39 PM
+﻿Report Name: C:\Users\Bravo_Ghost\Documents\GitHub\MAE_211_CSM_Project\report.txt
+Report Time: 11/2/2018 02:12:24
 Report Options:
     Part Names
 
 Select Set #1:
-    SM_Storage_Tank_Securing_Plate_Top.par:1
+    R-4D_with_Panel_1and3.asm:1
 
 Select Set #2:
-    R-4D_Helium_Tank_Securing_Strap.par:1
-    R-4D_Helium_Tank.par:1
-    R-4D_Mono_Tank_Small.par:1
-    R-4D_Mono_Tank_Securing_Strap.par:1
+    SM_Sump_Tank_Securing_Plate_Top.par:1
+    SM_Sump_Tank.par:1
 
 Interferences:
     1 of 2
-    SM_Storage_Tank_Securing_Plate_Top.par:1
-    R-4D_Helium_Tank_Securing_Strap.par:1
+    R-4D_Mono_Tank_Small.par:1
+    SM_Sump_Tank.par:1
 
     2 of 2
-    SM_Storage_Tank_Securing_Plate_Top.par:1
     R-4D_Mono_Tank_Securing_Strap.par:1
+    SM_Sump_Tank.par:1
 
     2 Interferences Detected
