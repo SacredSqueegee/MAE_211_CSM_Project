@@ -1,18 +1,17 @@
 ﻿Report Name: C:\Users\wiley\Documents\MAE 211 temp\Final Project\SM\asm\report.txt
-Report Time: 11/23/2018 6:15:34 PM
+Report Time: 11/24/2018 3:42:02 AM
 Report Options:
     Part Names
 
 Select Set #1:
-    Coupler_Support_Beam_Bolt.par:1
+    Bevel_Gear.par:1
 
 Select Set #2:
-    Coupler_Support_Beam.par:1
-    SM_Foward_Bulkhead.par:1
+    Bevel_Gear_with_Pole.par:1
 
 Interferences:
     1 of 1
-    Coupler_Support_Beam_Bolt.par:1
-    Coupler_Support_Beam.par:1
+    Bevel_Gear.par:1
+    Bevel_Gear_with_Pole.par:1
 
     1 Interferences Detected

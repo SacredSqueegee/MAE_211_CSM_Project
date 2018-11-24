@@ -1,0 +1,17 @@
+﻿Report Name: C:\Users\wiley\Documents\MAE 211 temp\Final Project\Old Parts\report.txt
+Report Time: 11/24/2018 3:18:12 AM
+Report Options:
+    Part Names
+
+Select Set #1:
+    Bevel_Gear_with_Pole.par:1
+
+Select Set #2:
+    Bevel_Gear.par:1
+
+Interferences:
+    1 of 1
+    Bevel_Gear_with_Pole.par:1
+    Bevel_Gear.par:1
+
+    1 Interferences Detected
