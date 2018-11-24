@@ -1,19 +1,18 @@
 ﻿Report Name: C:\Users\wiley\Documents\MAE 211 temp\Final Project\SM\asm\report.txt
-Report Time: 11/22/2018 11:20:47 PM
+Report Time: 11/23/2018 6:15:34 PM
 Report Options:
     Part Names
 
 Select Set #1:
-    Heium_Pipe.par:1
+    Coupler_Support_Beam_Bolt.par:1
 
 Select Set #2:
-    R-4D_Helium_Tank.par:1
-    SM_R-4D_Panel_2and4.par:2
-    R-4D_Helium_Tank_Securing_Strap.par:1
+    Coupler_Support_Beam.par:1
+    SM_Foward_Bulkhead.par:1
 
 Interferences:
     1 of 1
-    Heium_Pipe.par:1
-    SM_R-4D_Panel_2and4.par:2
+    Coupler_Support_Beam_Bolt.par:1
+    Coupler_Support_Beam.par:1
 
     1 Interferences Detected
