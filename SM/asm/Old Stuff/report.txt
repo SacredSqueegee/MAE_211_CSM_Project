@@ -1,0 +1,17 @@
+﻿Report Name: C:\Users\Bravo_Ghost\Documents\GitHub\MAE_211_CSM_Project\SM\asm\report.txt
+Report Time: 11/25/2018 02:37:44
+Report Options:
+    Part Names
+
+Select Set #1:
+    Coupler_Support_Beam_Bolt.par:11
+
+Select Set #2:
+    SM_Foward_Bulkhead.par:1
+
+Interferences:
+    1 of 1
+    Coupler_Support_Beam_Bolt.par:11
+    SM_Foward_Bulkhead.par:1
+
+    1 Interferences Detected
