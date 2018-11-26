@@ -1,0 +1,2 @@
+file "r4d_thruster_dimensions"
+	use the dimensions 164:1, dimensions in inches
