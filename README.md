@@ -12,7 +12,7 @@ While I kept all modeled parts in a 1:1 scale, there were quite a few "design" c
 ## Project Structure
 
 <details open>
-    <summary>Click this text to expand/hide directory tree with folder descriptions</summary>
+    <summary>Click this text to toggle directory tree visibility</summary>
     
     Old Parts/
         - Obsolete Solid Edge parts and assemblies that have been replaced in the final design. These have been
