@@ -1,18 +1,20 @@
-# MAE 211 CSM Project
+# MAE 211 Final Project - Saturn V Service Module
 MAE 211 was an introduction to CAD class that I took. This repository contains my final project for this class which was the Saturn V Service module. This repo should contain all of the solid edge part files and assemblies for this project along with high resolution renders of the final project.
 
 Renders can be found under SM/_Renders : https://github.com/SacredSqueegee/MAE_211_CSM_Project/tree/master/SM/_Renders
 
+## Project Description
+For this project I chose to model the Saturn V Command and Service Modules. After realizing the amount of detail I wanted to include on the internal structures I made the decision to only model the Service Module as I simply did not have enough time to model both in the detail I wanted.
 
-
+While I kept all modeled parts in a 1:1 scale, there were quite a few "design" choices that had to be made to keep the project moving forward. This project was purely meant to demonstrate modeling profeciency using Solid Edge and not functioning mechanical designs. This pretty much means that the whole design is more of a visualization of the service module that's good enough to highlight its internal components/connections but one would not be able to re-create a functioning service module based on this work.
 
 
 ## Project Structure
 
 ```text
 Old Parts/
-    - Obsolete Solid Edge parts and assemblies that have been replaced in the final design. These have been kept
-      around for future reference.
+    - Obsolete Solid Edge parts and assemblies that have been replaced in the final design. These have been
+      kept around for future reference.
 
 SM/
 │   - This is the main folder for the project. This contains all the part and assembly files along with final
@@ -68,14 +70,15 @@ SM/
 │     - Sump Tank part along with its' top and mid securing plates.
 ├── _References/
 │     - This folder continas all of my research into finding reference material for the Saturn V Service and
-│       Command Module. There are also a few screenshots of the assemblies being created in Solid Edge sprinkled
-│       into this folder as well.
+│       Command Module. There are also a few screenshots of the assemblies being created in Solid Edge
+│       sprinkled into this folder as well.
 └── _Renders/
     │ - Main renders of the final and sub-assemblies.
     └── Other Internal Pictures/
           - More renders of the service module that show of the insides.
 
 Update Images/
-    - Contains a SolidEdge screenshot along with a drawing needed for the project update before final submission.
+    - Contains a SolidEdge screenshot along with a drawing needed for the project update before final
+      submission.
 ```
 
